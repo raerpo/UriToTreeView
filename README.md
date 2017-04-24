@@ -12,8 +12,8 @@ That string is URI encoded and match with the following JSON:
 
 This utility allows to see a nice and interactive JSON tree view of either one of these inputs.
 
-## Demo
-https://build-vhrxzsfgcu.now.sh/
+## Demo (Temporal domain)
+https://build-yofpkkpgww.now.sh/
 
 ## How to use it
 
